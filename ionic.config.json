@@ -1,0 +1,8 @@
+{
+  "name": "actionplan",
+  "app_id": "212ea2ca",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
